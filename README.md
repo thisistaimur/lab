@@ -4,7 +4,7 @@ JupyterLite deployed as a static site to GitHub Pages.
 
 ## ✨ Works in the browser ✨
 
-➡️ **https://thisistaimur.me/jupyterlite/**
+➡️ **https://thisistaimur.me/lab/**
 
 ## Requirements
 
