@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-31T21:40:43.685035Z",
+      "created": "2022-07-31T21:42:53.764521Z",
       "format": null,
-      "last_modified": "2022-07-31T21:39:25.923405Z",
+      "last_modified": "2022-07-31T21:41:36.919927Z",
       "mimetype": "image/jpeg",
       "name": "parties_and_election_symbols.jpg",
       "path": "merahalka/pak-elections-master/cartoons/parties_and_election_symbols.jpg",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-31T21:40:43.689035Z",
+      "created": "2022-07-31T21:42:53.764521Z",
       "format": null,
-      "last_modified": "2022-07-31T21:39:25.923405Z",
+      "last_modified": "2022-07-31T21:41:36.923927Z",
       "mimetype": "image/jpeg",
       "name": "ps114_many_candidates_after_same_seat.jpg",
       "path": "merahalka/pak-elections-master/cartoons/ps114_many_candidates_after_same_seat.jpg",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-31T21:40:43.685035Z",
+      "created": "2022-07-31T21:42:53.764521Z",
       "format": null,
-      "last_modified": "2022-07-31T21:39:25.923405Z",
+      "last_modified": "2022-07-31T21:41:36.919927Z",
       "mimetype": "image/jpeg",
       "name": "delimitation_smog_ahead.jpg",
       "path": "merahalka/pak-elections-master/cartoons/delimitation_smog_ahead.jpg",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-31T21:40:43.685035Z",
+  "created": "2022-07-31T21:42:53.764521Z",
   "format": "json",
-  "last_modified": "2022-07-31T21:40:43.685035Z",
+  "last_modified": "2022-07-31T21:42:53.764521Z",
   "mimetype": null,
   "name": "cartoons",
   "path": "merahalka/pak-elections-master/cartoons",

@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.092524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:42:54.092524Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "merahalka/pakistan_elections-master/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.112524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:42:54.112524Z",
+      "mimetype": null,
+      "name": "paper",
+      "path": "merahalka/pakistan_elections-master/paper",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.076524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.191929Z",
+      "mimetype": null,
+      "name": "LICENSE",
+      "path": "merahalka/pakistan_elections-master/LICENSE",
+      "size": 35147,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.108524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:42:54.108524Z",
+      "mimetype": null,
+      "name": "graphics",
+      "path": "merahalka/pakistan_elections-master/graphics",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.076524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.191929Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "merahalka/pakistan_elections-master/README.md",
+      "size": 4525,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:42:54.108524Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:42:54.108524Z",
+  "mimetype": null,
+  "name": "pakistan_elections-master",
+  "path": "merahalka/pakistan_elections-master",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

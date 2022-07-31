@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.108524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.227929Z",
+      "mimetype": null,
+      "name": "disqualification_plot_generation.R",
+      "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/disqualification_plot_generation.R",
+      "size": 1858,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.108524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.227929Z",
+      "mimetype": null,
+      "name": "nagayama_plot_generation.R",
+      "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/nagayama_plot_generation.R",
+      "size": 4007,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.108524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.227929Z",
+      "mimetype": null,
+      "name": "party_incumbency_plot_generation.R",
+      "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/party_incumbency_plot_generation.R",
+      "size": 3840,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.108524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.227929Z",
+      "mimetype": null,
+      "name": "competition_plot_generation.R",
+      "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/competition_plot_generation.R",
+      "size": 4709,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:42:54.108524Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:41:37.227929Z",
+      "mimetype": null,
+      "name": "party_summary_plot_generation.R",
+      "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/party_summary_plot_generation.R",
+      "size": 7265,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:42:54.108524Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:42:54.108524Z",
+  "mimetype": null,
+  "name": "plot_generation_code",
+  "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
