@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:06:07.172150Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:04:55.778258Z",
+      "mimetype": null,
+      "name": "merahalka-ideasketch.ipynb",
+      "path": "merahalka/merahalka-ideasketch.ipynb",
+      "size": 3056,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:06:07.172150Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:06:07.172150Z",
+  "mimetype": null,
+  "name": "merahalka",
+  "path": "merahalka",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
