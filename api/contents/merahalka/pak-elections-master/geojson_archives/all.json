@@ -1,0 +1,85 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.773037Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.027406Z",
+      "mimetype": null,
+      "name": "pakelectionmap2013.geojson",
+      "path": "merahalka/pak-elections-master/geojson_archives/pakelectionmap2013.geojson",
+      "size": 3970092,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.797037Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.035406Z",
+      "mimetype": null,
+      "name": "pakistanelectionmap2008.geojson",
+      "path": "merahalka/pak-elections-master/geojson_archives/pakistanelectionmap2008.geojson",
+      "size": 3987505,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.785037Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.031406Z",
+      "mimetype": null,
+      "name": "pakistanelectionmap2002.geojson",
+      "path": "merahalka/pak-elections-master/geojson_archives/pakistanelectionmap2002.geojson",
+      "size": 3987185,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.761037Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.019406Z",
+      "mimetype": null,
+      "name": "pakelectionmap2008.geojson",
+      "path": "merahalka/pak-elections-master/geojson_archives/pakelectionmap2008.geojson",
+      "size": 3975493,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.813038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.039406Z",
+      "mimetype": null,
+      "name": "pakistanelectionmap2013.geojson",
+      "path": "merahalka/pak-elections-master/geojson_archives/pakistanelectionmap2013.geojson",
+      "size": 3982104,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.749036Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.011406Z",
+      "mimetype": null,
+      "name": "pakelectionmap2002.geojson",
+      "path": "merahalka/pak-elections-master/geojson_archives/pakelectionmap2002.geojson",
+      "size": 3975173,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:40:43.809038Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:40:43.809038Z",
+  "mimetype": null,
+  "name": "geojson_archives",
+  "path": "merahalka/pak-elections-master/geojson_archives",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

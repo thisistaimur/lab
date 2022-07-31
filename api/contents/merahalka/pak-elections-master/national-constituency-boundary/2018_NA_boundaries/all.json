@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.821038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.039406Z",
+      "mimetype": "image/svg+xml",
+      "name": "Electoral_map_of_Pakistan_with_new_demarcations.svg",
+      "path": "merahalka/pak-elections-master/national-constituency-boundary/2018_NA_boundaries/Electoral_map_of_Pakistan_with_new_demarcations.svg",
+      "size": 281692,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:40:43.821038Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:40:43.821038Z",
+  "mimetype": null,
+  "name": "2018_NA_boundaries",
+  "path": "merahalka/pak-elections-master/national-constituency-boundary/2018_NA_boundaries",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

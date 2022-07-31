@@ -1,0 +1,73 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.829038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.055406Z",
+      "mimetype": null,
+      "name": "elections-analysis.ipynb",
+      "path": "merahalka/pak-elections-master/notebooks/elections-analysis.ipynb",
+      "size": 29468,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.833038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.055406Z",
+      "mimetype": null,
+      "name": "mapping-national-constituencies.ipynb",
+      "path": "merahalka/pak-elections-master/notebooks/mapping-national-constituencies.ipynb",
+      "size": 1068182,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.837038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.063406Z",
+      "mimetype": null,
+      "name": "mapping-provincial-constituencies.ipynb",
+      "path": "merahalka/pak-elections-master/notebooks/mapping-provincial-constituencies.ipynb",
+      "size": 1376178,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.841038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.063406Z",
+      "mimetype": null,
+      "name": "victory-margin-analysis.ipynb",
+      "path": "merahalka/pak-elections-master/notebooks/victory-margin-analysis.ipynb",
+      "size": 28373,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.829038Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.055406Z",
+      "mimetype": null,
+      "name": "constituency-supplemental-data.ipynb",
+      "path": "merahalka/pak-elections-master/notebooks/constituency-supplemental-data.ipynb",
+      "size": 2041,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:40:43.841038Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:40:43.841038Z",
+  "mimetype": null,
+  "name": "notebooks",
+  "path": "merahalka/pak-elections-master/notebooks",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

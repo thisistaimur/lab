@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.745036Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:25.987406Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "independent_symbols.xlsx",
+      "path": "merahalka/pak-elections-master/election_symbols/independent_symbols.xlsx",
+      "size": 20182,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.745036Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:25.987406Z",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "name": "political_party_symbols.xlsx",
+      "path": "merahalka/pak-elections-master/election_symbols/political_party_symbols.xlsx",
+      "size": 16888,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.741036Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:25.987406Z",
+      "mimetype": "application/pdf",
+      "name": "independent_symbols.pdf",
+      "path": "merahalka/pak-elections-master/election_symbols/independent_symbols.pdf",
+      "size": 91850,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.745036Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:25.987406Z",
+      "mimetype": "application/pdf",
+      "name": "political_party_symbols.pdf",
+      "path": "merahalka/pak-elections-master/election_symbols/political_party_symbols.pdf",
+      "size": 111633,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:40:43.745036Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:40:43.745036Z",
+  "mimetype": null,
+  "name": "election_symbols",
+  "path": "merahalka/pak-elections-master/election_symbols",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

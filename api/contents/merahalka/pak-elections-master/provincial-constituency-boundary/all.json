@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.953041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.135407Z",
+      "mimetype": null,
+      "name": "Provincial_Constituency_Boundary.cpg",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.cpg",
+      "size": 5,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.953041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.135407Z",
+      "mimetype": null,
+      "name": "Provincial_Constituency_Boundary.sbn",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.sbn",
+      "size": 6044,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.961041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.147407Z",
+      "mimetype": "application/x-qgis",
+      "name": "Provincial_Constituency_Boundary.shx",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.shx",
+      "size": 4716,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.953041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.135407Z",
+      "mimetype": null,
+      "name": "Provincial_Constituency_Boundary.dbf",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.dbf",
+      "size": 69402,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.957041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.147407Z",
+      "mimetype": "application/x-qgis",
+      "name": "Provincial_Constituency_Boundary.shp",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.shp",
+      "size": 2044848,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.953041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.135407Z",
+      "mimetype": null,
+      "name": "Provincial_Constituency_Boundary.sbx",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.sbx",
+      "size": 492,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.953041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.135407Z",
+      "mimetype": null,
+      "name": "Provincial_Constituency_Boundary.prj",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.prj",
+      "size": 145,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-31T21:40:43.961041Z",
+      "format": null,
+      "last_modified": "2022-07-31T21:39:26.147407Z",
+      "mimetype": "application/xml",
+      "name": "Provincial_Constituency_Boundary.shp.xml",
+      "path": "merahalka/pak-elections-master/provincial-constituency-boundary/Provincial_Constituency_Boundary.shp.xml",
+      "size": 315387,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-31T21:40:43.961041Z",
+  "format": "json",
+  "last_modified": "2022-07-31T21:40:43.961041Z",
+  "mimetype": null,
+  "name": "provincial-constituency-boundary",
+  "path": "merahalka/pak-elections-master/provincial-constituency-boundary",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
