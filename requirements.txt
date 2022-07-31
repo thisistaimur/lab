@@ -22,3 +22,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
+dask
+dask[distributed]
