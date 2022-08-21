@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.683264Z",
+      "created": "2022-08-21T20:01:03.391824Z",
       "format": null,
-      "last_modified": "2022-08-21T18:18:47.683264Z",
+      "last_modified": "2022-08-21T20:01:03.391824Z",
       "mimetype": null,
       "name": "assemblies",
       "path": "merahalka/pakistan_elections-master/data/assemblies",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.683264Z",
+      "created": "2022-08-21T20:01:03.391824Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.367455Z",
+      "last_modified": "2022-08-21T19:59:45.515125Z",
       "mimetype": null,
       "name": "party_summary_generation.R",
       "path": "merahalka/pakistan_elections-master/data/party_summary_generation.R",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.699264Z",
+      "created": "2022-08-21T20:01:03.407824Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.391455Z",
+      "last_modified": "2022-08-21T19:59:45.539125Z",
       "mimetype": "text/csv",
       "name": "pk_constituency_data.csv",
       "path": "merahalka/pakistan_elections-master/data/pk_constituency_data.csv",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.683264Z",
+      "created": "2022-08-21T20:01:03.391824Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.367455Z",
+      "last_modified": "2022-08-21T19:59:45.515125Z",
       "mimetype": null,
       "name": "constituency_data_generation.R",
       "path": "merahalka/pakistan_elections-master/data/constituency_data_generation.R",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.687264Z",
+      "created": "2022-08-21T20:01:03.395823Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.387455Z",
+      "last_modified": "2022-08-21T19:59:45.531125Z",
       "mimetype": "text/csv",
       "name": "pk_candidate_data.csv",
       "path": "merahalka/pakistan_elections-master/data/pk_candidate_data.csv",
@@ -62,9 +62,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.683264Z",
+      "created": "2022-08-21T20:01:03.391824Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.367455Z",
+      "last_modified": "2022-08-21T19:59:45.515125Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "merahalka/pakistan_elections-master/data/README.md",
@@ -73,9 +73,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-21T18:18:47.699264Z",
+  "created": "2022-08-21T20:01:03.407824Z",
   "format": "json",
-  "last_modified": "2022-08-21T18:18:47.699264Z",
+  "last_modified": "2022-08-21T20:01:03.407824Z",
   "mimetype": null,
   "name": "data",
   "path": "merahalka/pakistan_elections-master/data",

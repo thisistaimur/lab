@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.439265Z",
+      "created": "2022-08-21T20:01:03.143821Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.167455Z",
+      "last_modified": "2022-08-21T19:59:45.319123Z",
       "mimetype": "application/pdf",
       "name": "political_party_symbols.pdf",
       "path": "merahalka/pak-elections-master/election_symbols/political_party_symbols.pdf",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.439265Z",
+      "created": "2022-08-21T20:01:03.139821Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.167455Z",
+      "last_modified": "2022-08-21T19:59:45.315123Z",
       "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "name": "independent_symbols.xlsx",
       "path": "merahalka/pak-elections-master/election_symbols/independent_symbols.xlsx",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.439265Z",
+      "created": "2022-08-21T20:01:03.139821Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.167455Z",
+      "last_modified": "2022-08-21T19:59:45.315123Z",
       "mimetype": "application/pdf",
       "name": "independent_symbols.pdf",
       "path": "merahalka/pak-elections-master/election_symbols/independent_symbols.pdf",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-08-21T18:18:47.439265Z",
+      "created": "2022-08-21T20:01:03.143821Z",
       "format": null,
-      "last_modified": "2022-08-21T18:17:36.167455Z",
+      "last_modified": "2022-08-21T19:59:45.319123Z",
       "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "name": "political_party_symbols.xlsx",
       "path": "merahalka/pak-elections-master/election_symbols/political_party_symbols.xlsx",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-08-21T18:18:47.439265Z",
+  "created": "2022-08-21T20:01:03.143821Z",
   "format": "json",
-  "last_modified": "2022-08-21T18:18:47.439265Z",
+  "last_modified": "2022-08-21T20:01:03.143821Z",
   "mimetype": null,
   "name": "election_symbols",
   "path": "merahalka/pak-elections-master/election_symbols",
