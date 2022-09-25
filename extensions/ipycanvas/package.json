@@ -1,6 +1,6 @@
 {
   "name": "ipycanvas",
-  "version": "0.12.1",
+  "version": "0.13.1",
   "description": "Interactive widgets library exposing the browser's Canvas API",
   "keywords": [
     "jupyter",
@@ -12,7 +12,9 @@
     "lib/**/*.js",
     "lib/**/*.d.ts",
     "dist/*.js",
-    "dist/*.d.ts"
+    "dist/*.d.ts",
+    "dist/*.map",
+    "dist/*.LICENSE.txt"
   ],
   "homepage": "https://github.com/martinRenou/ipycanvas",
   "bugs": {
@@ -88,7 +90,7 @@
       }
     },
     "_build": {
-      "load": "static/remoteEntry.be0f250473ab8848c05a.js",
+      "load": "static/remoteEntry.9693baf6fc7fc4c880d2.js",
       "extension": "./extension"
     }
   }
