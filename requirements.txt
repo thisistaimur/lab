@@ -55,3 +55,4 @@ netcdf4
 scikit-learn
 dask
 dask[distributed]
+RISE
