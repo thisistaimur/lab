@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2023-11-06T22:07:19.883554Z",
+      "created": "2023-11-06T22:14:21.241665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.065281Z",
+      "last_modified": "2023-11-06T22:13:15.929575Z",
       "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "name": "independent_symbols.xlsx",
       "path": "merahalka/pak-elections-master/election_symbols/independent_symbols.xlsx",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:19.883554Z",
+      "created": "2023-11-06T22:14:21.241665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.069281Z",
+      "last_modified": "2023-11-06T22:13:15.929575Z",
       "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
       "name": "political_party_symbols.xlsx",
       "path": "merahalka/pak-elections-master/election_symbols/political_party_symbols.xlsx",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:19.883554Z",
+      "created": "2023-11-06T22:14:21.241665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.065281Z",
+      "last_modified": "2023-11-06T22:13:15.929575Z",
       "mimetype": "application/pdf",
       "name": "independent_symbols.pdf",
       "path": "merahalka/pak-elections-master/election_symbols/independent_symbols.pdf",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:19.883554Z",
+      "created": "2023-11-06T22:14:21.241665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.069281Z",
+      "last_modified": "2023-11-06T22:13:15.929575Z",
       "mimetype": "application/pdf",
       "name": "political_party_symbols.pdf",
       "path": "merahalka/pak-elections-master/election_symbols/political_party_symbols.pdf",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2023-11-06T22:07:19.883554Z",
+  "created": "2023-11-06T22:14:21.241665Z",
   "format": "json",
-  "last_modified": "2023-11-06T22:07:19.883554Z",
+  "last_modified": "2023-11-06T22:14:21.241665Z",
   "mimetype": null,
   "name": "election_symbols",
   "path": "merahalka/pak-elections-master/election_symbols",

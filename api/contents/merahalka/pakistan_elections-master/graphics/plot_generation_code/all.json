@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2023-11-06T22:07:20.151561Z",
+      "created": "2023-11-06T22:14:21.501665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.297288Z",
+      "last_modified": "2023-11-06T22:13:16.137578Z",
       "mimetype": null,
       "name": "nagayama_plot_generation.R",
       "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/nagayama_plot_generation.R",
@@ -14,9 +14,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:20.151561Z",
+      "created": "2023-11-06T22:14:21.501665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.297288Z",
+      "last_modified": "2023-11-06T22:13:16.137578Z",
       "mimetype": null,
       "name": "competition_plot_generation.R",
       "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/competition_plot_generation.R",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:20.151561Z",
+      "created": "2023-11-06T22:14:21.501665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.297288Z",
+      "last_modified": "2023-11-06T22:13:16.137578Z",
       "mimetype": null,
       "name": "disqualification_plot_generation.R",
       "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/disqualification_plot_generation.R",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:20.151561Z",
+      "created": "2023-11-06T22:14:21.501665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.297288Z",
+      "last_modified": "2023-11-06T22:13:16.137578Z",
       "mimetype": null,
       "name": "party_incumbency_plot_generation.R",
       "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/party_incumbency_plot_generation.R",
@@ -50,9 +50,9 @@
     },
     {
       "content": null,
-      "created": "2023-11-06T22:07:20.151561Z",
+      "created": "2023-11-06T22:14:21.501665Z",
       "format": null,
-      "last_modified": "2023-11-06T22:05:52.297288Z",
+      "last_modified": "2023-11-06T22:13:16.137578Z",
       "mimetype": null,
       "name": "party_summary_plot_generation.R",
       "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code/party_summary_plot_generation.R",
@@ -61,9 +61,9 @@
       "writable": true
     }
   ],
-  "created": "2023-11-06T22:07:20.151561Z",
+  "created": "2023-11-06T22:14:21.501665Z",
   "format": "json",
-  "last_modified": "2023-11-06T22:07:20.151561Z",
+  "last_modified": "2023-11-06T22:14:21.501665Z",
   "mimetype": null,
   "name": "plot_generation_code",
   "path": "merahalka/pakistan_elections-master/graphics/plot_generation_code",
